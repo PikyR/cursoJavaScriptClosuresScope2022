@@ -1,0 +1,1 @@
+# cursoJavaScriptClosuresScope2022
